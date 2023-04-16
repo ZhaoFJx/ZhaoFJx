@@ -1,7 +1,7 @@
 Time for mess around...
 
-擅长处理软件授权及许可证兼容（逃
+Good at handling software licensing and license compatibility Imao
 
-会一点点Python, C#和网页前端
+I know a little Python, C# and web front-end.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhaoFJx)](https://github.com/anuraghazra/github-readme-stats)
