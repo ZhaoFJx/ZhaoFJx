@@ -1,6 +1,6 @@
 Time for mess around...
 
-Good at handling software licensing and license compatibility Imao
+Good at handling software licensing and license compatibility
 
 I know a little Python, C# and web front-end.
 
