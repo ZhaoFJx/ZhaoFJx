@@ -1,0 +1,3 @@
+# JxDB
+只是用来备份各种文件……
+Just for backup

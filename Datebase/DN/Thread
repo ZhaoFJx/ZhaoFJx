@@ -1,0 +1,369 @@
+[[module CSS]]
+#page-title {
+  display: none;
+}
+
+.meta-title {
+  border-bottom: solid 1px #bbbbbb;
+  color: #990011;
+  font-weight: normal;
+  margin: 0 0 0.6em;
+  padding: 0 0 0.25em;
+  font-size: 200%;
+}
+
+.meta-title p {
+  margin: 0;
+}
+[[/module]]
+[[div class="meta-title"]]
+[http://scp-wiki-cn.wikidot.com/old:coolpage-funpage 超酷超有趣的页面] / 讨论区
+[[/div]]
+[[html]]
+<style type="text/css" id="internal-style">
+/* 灾难在下面等着你 */
+
+@import url(https://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--theme/base/css/style.css);
+@import url(https://scp-wiki.wikidot.com/component:theme/code/1);
+
+.shakelink {
+  cursor:pointer;
+  user-select: none;
+}
+.shakelink:active {
+/* you dont even know it but this code came from a vore scp */
+  animation: shake 0.1s;
+  display: inline-block;
+  background-color: red;
+  user-select: none;
+}
+
+@keyframes shake {
+  0% { transform: translate(1px, -2px); }
+  25% { transform: translate(-1px, 2px); }
+  50% { transform: translate(1px, -2px); }
+  100% { transform: translate(-1px, 2px); }
+}
+</style>
+
+<SCRIPT LANGUAGE = "JavaScript">
+var dnum1 = 0;
+var dnum2 = 0;
+var dstring = "我真的很享受在这个超酷的超有趣的页面上玩得时间就像前缀的+1那么有趣说真的我真想给一千个+1一直+1到人体的极限我甚至还想让我邻居过来到我电脑上这样他们也能给这个页面+1了而且说实话我这一辈子从来没有见过任何一个如这一页一般独特的东西它可能是我整个人生的巅峰体验的高潮在这之后我就只能走下坡路了我真等不及作者再做第二个超级酷超级有趣的页面不知道那会是什么样的但我猜它肯定和这个一样棒甚至有可能比这个还要好在这个SCP维基中树立起新的典范发展起新的革命可能之后他们就会给这种类型的东西发明一个全新的+1这样我就能投给你了你永远不知道未来会变成什么样这一切都是一个巨大的谜团什么都有可能会发生我的天啊我真的等不及了我肯定以后会有上百个超酷超有趣的页面肯定一会会有上千个甚至上万个超酷超有趣的页面那也太棒了吧+1"
+
+function description()
+{
+if(dnum2<dstring.length){
+dnum2++;
+}
+window.setTimeout(dwait,1);
+}
+
+function dwait(){
+document.getElementById("fakepost").value= dstring.substring(dnum1, dnum2);
+}
+
+</SCRIPT>
+
+<!-- i swear to god i ran this code through a beautifier this is the best i can do... -->
+
+<div id="page-content">
+                        
+
+
+<div class="forum-thread-box ">
+    <div class="forum-breadcrumbs">
+     <a target="_blank" href="http://scp-wiki-cn.wikidot.com/forum/start">Forum</a>
+        » <a target="_blank" href="http://scp-wiki-cn.wikidot.com/forum/c-675245/">单页讨论 / 单页讨论</a>
+     » 超酷超有趣的页面
+    </div>
+    
+    <div class="description-block well">
+     <div class="statistics">
+     发起由：Wikidot<br>
+     日期：24 Apr 2017, 00:00<br>
+     文章数：7<br>
+     <span class="rss-icon"><img src="http://www.wikidot.com/common--theme/base/images/feed/feed-icon-14x14.png" alt="rss icon"></span>
+     RSS: <a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">新回复</a>
+     </div>
+     这是与维基页面相关联的讨论内容 <a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">超酷超有趣的页面</a>.
+    
+    </div>
+    
+    <div class="options">
+     <a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">全部展开</a>
+     <a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">全部折叠</a>
+     <a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">更多选项</a>
+    </div>
+
+    <div id="thread-action-area" class="action-area well" style="display: none"></div>
+
+    <div id="thread-container" class="thread-container">
+        <div id="thread-container-posts" style="">
+
+    <div class="post-container">
+     <div class="post">
+     <div class="long">
+     <div class="head">
+     <div class="options">
+     <a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">折叠</a>
+     </div>
+     <div class="title">
+     第一个酷页面
+     </div>
+     <div class="info">
+     <span class="printuser avatarhover"><a target="_blank" href="http://www.wikidot.com/user:info/stephlynch"><img class="small" src="http://www.wikidot.com/avatar.php?userid=1802367&amp;amp;size=small&amp;amp;timestamp=1493035945" alt="stephlynch" style="background-image:url(http://www.wikidot.com/userkarma.php?u=1802367)"></a><a target="_blank" href="http://www.wikidot.com/user:info/stephlynch">stephlynch</a></span> 1 January 2012, 9:42
+     </div>
+     </div>
+     <div class="content">
+
+     <p>我第一个超酷超有趣的页面，它是所有超酷超有趣的页面的开创者</p>
+
+     </div>
+
+     <div class="options">
+     <strong><a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">回复</a></strong>
+     <a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">选项</a>
+     </div>
+     <div class="options" style="display: none">
+     </div>
+     </div>
+    </div>
+</div>
+    <div class="post-container">
+     <div class="post">
+     <div class="long">
+     <div class="head">
+     <div class="options">
+     <a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">折叠</a>
+     </div>
+     <div class="title">
+     SCP列表
+     </div>
+     <div class="info">
+     <span class="printuser avatarhover"><a target="_blank" href="http://www.wikidot.com/user:info/stephlynch"><img class="small" src="http://www.wikidot.com/avatar.php?userid=1802367&amp;amp;size=small&amp;amp;timestamp=1493035945" alt="stephlynch" style="background-image:url(http://www.wikidot.com/userkarma.php?u=1802367)"></a><a target="_blank" href="http://www.wikidot.com/user:info/stephlynch">stephlynch</a></span> 24 Apr 2047, 3:16
+     </div>
+     </div>
+     <div class="content">
+     <br>
+     <a target="_blank" href="https://scp-wiki-cn.wikidot.com/old:scp-2354">SCP-2354 - 合理的便利</a>
+<p>一个SCP，关于1990年美国残疾人法案和长手指。</p>
+<a target="_blank" class="shakelink" name="https://scp-wiki-cn.wikidot.com/old:scp-3969" >SCP-3969 - 霍夫曼的噩梦</a>
+<p>一个SCP，关于清醒梦和……某些东西。30年后再回来点这个链接</p>
+<a target="_blank" href="https://scp-wiki-cn.wikidot.com/old:scp-2689">SCP-2689 - 万宝路柔滑丰润的口感</a>
+<p>一个SCP，关于香烟和人类的舌头。</p>
+
+<a target="_blank" href="https://scp-wiki-cn.wikidot.com/old:scp-5747-2">SCP-5747 - 谢谢你与我们共行</a>
+
+<p>一个SCP，关于飞机和云朵</p>
+
+<a target="_blank" href="https://scp-wiki-cn.wikidot.com/old:scp-618-1">SCP-618 - 壁中偷窥者</a>
+
+<p>一个SCP，关于跟踪和食虫</p>
+
+     </div>
+     <div class="options">
+     <strong><a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">回复</a></strong>
+     <a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">选项</a>
+     </div>
+     <div class="options" style="display: none">
+     </div>
+     </div>
+    </div>
+    <div class="post-container">
+     <div class="post">
+     <div class="long">
+     <div class="head">
+     <div class="options">
+     <a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">折叠</a>
+     </div>
+     <div class="title">
+     RE: SCP列表
+     </div>
+     <div class="info">
+     <span class="printuser avatarhover"><a target="_blank" href="http://www.wikidot.com/user:info/stephlynch"><img class="small" src="http://www.wikidot.com/avatar.php?userid=1802367&amp;amp;size=small&amp;amp;timestamp=1493035945" alt="stephlynch" style="background-image:url(http://www.wikidot.com/userkarma.php?u=1802367)"></a><a target="_blank" href="http://www.wikidot.com/user:info/stephlynch">stephlynch</a></span> 25 Dec 1823, 0:55
+     </div>
+     </div>
+     <div class="content">
+
+     <p>哇好棒的SCP呀 +1</p>
+
+     </div>
+     <div class="options">
+     <strong><a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">回复</a></strong>
+     <a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">选项</a>
+     </div>
+     <div class="options" style="display: none">
+     </div>
+     </div>
+    </div>
+    <div class="post-container">
+     <div class="post">
+     <div class="long">
+     <div class="head">
+     <div class="options">
+     <a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">折叠</a>
+     </div>
+     <div class="title">
+     RE: RE: SCP列表
+     </div>
+     <div class="info">
+     <span class="printuser avatarhover"><a target="_blank" href="http://www.wikidot.com/user:info/stephlynch"><img class="small" src="http://www.wikidot.com/avatar.php?userid=1802367&amp;amp;size=small&amp;amp;timestamp=1493035945" alt="stephlynch" style="background-image:url(http://www.wikidot.com/userkarma.php?u=1802367)"></a><a target="_blank" href="http://www.wikidot.com/user:info/stephlynch">stephlynch</a></span> 5 Apr 2017, 2:32
+     </div>
+     </div>
+     <div class="content">
+
+     <p>不骗你，我把这一页打印了下来，还寄了一份给教皇 ++1</p>
+
+     </div>
+     <div class="options">
+     <strong><a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">回复</a></strong>
+     <a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">选项</a>
+     </div>
+     <div class="options" style="display: none">
+     </div>
+     </div>
+    </div>
+</div>
+</div>
+</div>
+   <div class="post-container">
+     <div class="post">
+     <div class="long">
+     <div class="head">
+     <div class="options">
+     <a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">折叠</a>
+     </div>
+     <div class="title">
+     故事列表
+     </div>
+     <div class="info">
+     <span class="printuser avatarhover"><a target="_blank" href="http://www.wikidot.com/user:info/stephlynch"><img class="small" src="http://www.wikidot.com/avatar.php?userid=1802367&amp;amp;size=small&amp;amp;timestamp=1493035945" alt="stephlynch" style="background-image:url(http://www.wikidot.com/userkarma.php?u=1802367)"></a><a target="_blank" href="http://www.wikidot.com/user:info/stephlynch">stephlynch</a></span> 7 Feb 2102, 4:21
+     </div>
+     </div>
+     <div class="content">
+     <p>？？？？？？？？什么故事？</p>
+     </div>
+     <div class="options">
+     <strong><a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">回复</a></strong>
+     <a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">选项</a>
+     </div>
+     <div class="options" style="display: none">
+     </div>
+     </div>
+    </div>
+</div>
+    <div class="post-container">
+     <div class="post">
+     <div class="long">
+     <div class="head">
+     <div class="options">
+     <a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">折叠</a>
+     </div>
+<div class="title">
+                           其他列表...... 
+                        </div>
+                        <div class="info">
+                           <span class="printuser avatarhover"><a target="_blank" href="http://www.wikidot.com/user:info/stephlynch"><img class="small" src="http://www.wikidot.com/avatar.php?userid=1802367&amp;amp;size=small&amp;amp;timestamp=1493035945" alt="stephlynch" style="background-image:url(http://www.wikidot.com/userkarma.php?u=1802367)"></a><a target="_blank" href="http://www.wikidot.com/user:info/stephlynch">stephlynch</a></span> 8 Aug 0008, 0:08
+                        </div>
+                     </div>
+                     <div class="content">
+                        <p><a target="_blank" href="https://scp-wiki-cn.wikidot.com/old:artpage-fartpage">艺作屁作</a> - 我的酷艺作！！！哇哦！！</p>
+                        <p><a target="_blank" href="https://www.scp-wiki-cn.wikidot.com/art:artpage-fartpage-requiem">艺作屁作 3.0 - 1.0：SCP ⑨月版</a> - 竟然有续集你敢信吗？？？我们已经从2014年等到现在了</p>
+                     </div>
+                     <div class="options">
+                        <strong><a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">回复</a></strong> 
+                        <a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">选项</a>
+                     </div>
+                     <div class="options" style="display: none">
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="post-container">
+               <div class="post">
+                  <div class="long">
+                     <div class="head">
+                        <div class="options">
+                           <a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">折叠</a>
+                        </div>
+
+     <div class="title">
+     超酷超有趣的沙盒
+     </div>
+     <div class="info">
+     <span class="printuser avatarhover"><a target="_blank" href="http://www.wikidot.com/user:info/stephlynch"><img class="small" src="http://www.wikidot.com/avatar.php?userid=1802367&amp;amp;size=small&amp;amp;timestamp=1493035945" alt="stephlynch" style="background-image:url(http://www.wikidot.com/userkarma.php?u=1802367)"></a><a target="_blank" href="http://www.wikidot.com/user:info/stephlynch">stephlynch</a></span> 16 May 2014, 6:90
+     </div>
+     </div>
+     <div class="content">
+
+     <p>好玩的还不止这个超酷超有趣的页面还有这个<a target="_blank" href="http://scpdsandbox.wikidot.com/lynch">超酷超有趣的沙盒</a>哦！</p>
+
+     </div>
+
+     <div class="options">
+     <strong><a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">回复</a></strong>
+     <a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">选项</a>
+     </div>
+     <div class="options" style="display: none">
+     </div>
+     </div>
+    </div>
+    <div class="post-container">
+     <div class="post">
+     <div class="long">
+     <div class="head">
+     <div class="options">
+     <a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">折叠</a>
+     </div>
+     <div class="title">
+     RE: 超酷超有趣的沙盒
+     </div>
+     <div class="info">
+     <span class="printuser avatarhover"><a target="_blank" href="http://www.wikidot.com/user:info/stephlynch"><img class="small" src="http://www.wikidot.com/avatar.php?userid=1802367&amp;amp;size=small&amp;amp;timestamp=1493035945" alt="stephlynch" style="background-image:url(http://www.wikidot.com/userkarma.php?u=1802367)"></a><a target="_blank" href="http://www.wikidot.com/user:info/stephlynch">stephlynch</a></span> 8 Oct 2088, 88:88
+     </div>
+     </div>
+     <div class="content">
+
+     <p>沙盒超棒的我每天都在里面洗澡 +1</p>
+
+     </div>
+
+     <div class="options">
+     <strong><a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">回复</a></strong>
+     <a target="_blank" href="http://scp-wiki-cn.wikidot.com/old:coolpage-funpage">选项</a>
+     </div>
+     <div class="options" style="display: none">
+     </div>
+     </div>
+    </div>
+</div>
+           </div>
+ 
+            </div>
+ 
+            </div>
+ 
+
+
+
+        </div>
+    </div>
+<span>帖文标题：</span>
+                    <br>
+<input class="text form-control" style="font-weight:bold; font-size: 130%;" value="伟大的酷页面（手机和部分浏览器不支持注意）" readonly>
+<img src="http://scp-wiki.wdfiles.com/local--files/scp-3309/buttons.png">
+<div><textarea rows="16" style="width:95%;" id="fakepost" onkeypress="description()" wrap="hard">
+
+</textarea>
+</div>
+                <div class="edit-help-34">
+                    帮助：<a target="_blank" href="http://www.wikidot.com/doc:quick-reference">维基语法快速参考</a>                </div>
+                <div class="buttons alignleft">
+                    <input class="btn" value="取消" type="button">
+                    <input class="btn" value="预览" type="button">
+                    <input class="btn" value="发表" type="button">
+                </div>
+</div>
+
+[[/html]]
